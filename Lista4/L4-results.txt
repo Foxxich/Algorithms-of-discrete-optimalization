@@ -1,0 +1,54 @@
+K  4
+9
+9
+Used time  1.5652ms
+K  5
+21
+21
+Used time  1.036ms
+K  6
+204
+220
+Used time  2.5873ms
+K  7
+502
+502
+Used time  7.8365ms
+K  8
+774
+774
+Used time  24.3315ms
+K  9
+1339
+1339
+Used time  65.8425ms
+K  10
+5400
+5400
+Used time  172.6333ms
+K  11
+9314
+9314
+Used time  704.9253ms
+K  12
+21245
+21245
+Used time  2.3783357s
+K  13
+37963
+37963
+Used time  10.4651194s
+K  14
+94932
+94932
+Used time  38.1533735s
+K  15
+156945
+156945
+Used time  2m21.6149217s
+K  16
+440915
+440915
+Used time  6m51.6170339s
+
+go run Alg.go Dynic.go Graph.go main.go

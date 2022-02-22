@@ -1,0 +1,25 @@
+#Solutions for three tasks from algorithms of discrete optimization
+## by Vadym Liss (257264)
+###Information
+'src' folder has all our classes;
+
+
+'obj' folder has generated '*.o' files;
+
+
+'include' folder has headers for 4 main classes;
+
+
+'bin' folder has binary files of implemented algorithms: dijkstra, dial, radixheap;
+
+
+'results' folder results of tests for implemented algorithms (not added!): dijkstra, dial, radixheap;
+
+###Task1
+In this task we needed to implement Dijkstra algorithm
+
+###Task2
+In this task we needed to implement Dial modification of Dijkstra algorithm
+
+###Task3
+In this task we needed to implement RadixHeap modification of Dijkstra algorithm
